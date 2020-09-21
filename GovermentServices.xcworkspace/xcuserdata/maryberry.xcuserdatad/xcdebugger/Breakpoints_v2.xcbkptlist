@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A234EFB9-3682-45A8-8429-10C1FBE3A4F7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DD5FA7B-3C82-4C55-9A1D-9CCCDD3173EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GovermentServices/Modules/HotWaterShutoff/View/HotWaterShutoffViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7A213FA-CBAF-4F2C-B6EB-5CB75683CFAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GovermentServices/Modules/HotWaterShutoff/Presenter/HotWaterShutoffPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "didSearch(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7A213FA-CBAF-4F2C-B6EB-5CB75683CFAC - 162b73aec2a881d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GovermentServices.HotWaterShutoffPresenter.didSearch(Swift.String) -&gt; ()"
+                  moduleName = "GovermentServices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maryberry/Developer/GovermentServices/GovermentServices/Modules/HotWaterShutoff/Presenter/HotWaterShutoffPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "F7A213FA-CBAF-4F2C-B6EB-5CB75683CFAC - 1c9dbe27bf8d3969"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (GovermentServices.AddressModel) -&gt; Swift.Bool in GovermentServices.HotWaterShutoffPresenter.didSearch(Swift.String) -&gt; ()"
+                  moduleName = "GovermentServices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maryberry/Developer/GovermentServices/GovermentServices/Modules/HotWaterShutoff/Presenter/HotWaterShutoffPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F25248F-5BBB-4ED6-B9EA-F2AE76E57DFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GovermentServices/Modules/HotWaterShutoff/Presenter/HotWaterShutoffPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "didCancelSearch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

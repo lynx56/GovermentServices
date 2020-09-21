@@ -1,0 +1,20 @@
+### Headers settings
+company: Gulnaz Almukhametova
+
+### Xcode project settings
+project_name: GovermentServices
+xcodeproj_path: GovermentServices.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: GovermentServices
+
+# The file path for new modules
+project_file_path: GovermentServices/Modules
+
+### Dependencies settings section
+podfile_path: Podfile
+
+### Templates
+templates:
+- {name: swifty_viper}

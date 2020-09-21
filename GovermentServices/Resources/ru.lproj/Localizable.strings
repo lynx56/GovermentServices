@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  GovermentServices
+
+  Created by Holyberry on 20.09.2020.
+  Copyright © 2020 gulnaz. All rights reserved.
+*/
+
+"HotWaterShutoff.Corpus" = "корпус";
+"HotWaterShutoff.Litera" = "литер";
+"HotWaterShutoff.House" = "дом";
+"HotWaterShutoff.HotWaterNotShutoff" = "ГВС сохранено";
+"HotWaterShutoff.Downloading" = "Загрузка данных...";
+"HotWaterShutoff.Title" = "График отключения ГВС";
+"HotWaterShutoff.Retry" = "Повторить";
+"HotWaterShutoff.Errors.DataError" = "Не удалось прочитать данные";
+"HotWaterShutoff.Errors.NetworkError" = "Ошибка соединения";

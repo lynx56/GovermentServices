@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19E287" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ScheduleItemMO" representedClassName="ScheduleItemMO" syncable="YES" codeGenerationType="class">
+        <attribute name="city" attributeType="String"/>
+        <attribute name="corpus" attributeType="String"/>
+        <attribute name="createdDate" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dateFrom" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dateTo" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="house" attributeType="String"/>
+        <attribute name="litera" attributeType="String"/>
+        <attribute name="street" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="ScheduleItemMO" positionX="-63" positionY="-18" width="128" height="163"/>
+    </elements>
+</model>
